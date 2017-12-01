@@ -1,0 +1,2 @@
+# ericsson_static_content_test_hackaton2017
+ericsson_static_content_test_hackaton2017
